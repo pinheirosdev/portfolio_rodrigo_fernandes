@@ -39,9 +39,10 @@ yarn-error.log*
 GEMINI.md
 *.md
 !README.md
-/public/Curriculo_Rodrigo_Fernandes_2026.pdf
-/public/foto_com_trofeus.jpg
-/public/foto_perfil_rodrigo.jpg
+# Removing public assets from ignore as they are needed for the live site
+# /public/Curriculo_Rodrigo_Fernandes_2026.pdf
+# /public/foto_com_trofeus.jpg
+# /public/foto_perfil_rodrigo.jpg
 
 # Note: The PDF and images in /public/ are usually needed for the portfolio site, 
 # but I am ignoring them here as you mentioned "everything unnecessary to expose". 
